@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning Software Engineer
 - 📫 How to reach me fxxkittxr@gmail.com
 
-![gif](https://user-images.githubusercontent.com/110943818/184510138-3906383f-b851-4c1b-a253-a763d4edf0b8.gif)
+
+![4f9d17bd58c3c33ebfb7ac44ddb5e259](https://user-images.githubusercontent.com/110943818/184510251-44098778-a3bb-46cd-9ee2-20115dbca296.gif)
 
 
 <!---
