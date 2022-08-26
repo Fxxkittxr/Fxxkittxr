@@ -1,9 +1,8 @@
-- 👋 Olá, olá  me chamo Paloma ou @Fxxkittxr
-- 🌱 Sou estudante do 1° semestre de Engenharia de Software
-- 📫 Caso queira entrar em contato: fxxkittxr@gmail.com
-
-![270f](https://user-images.githubusercontent.com/110943818/186902704-dcfde408-0c98-41c3-a8a6-fea699d8ac18.png)
-
+<h4>
+☼ Olá, olá  me chamo Paloma ou @Fxxkittxr<br>
+👾 Sou estudante do 1° semestre de Engenharia de Software<br>
+👀 Caso queira entrar em contato: fxxkittxr@gmail.com<br>
+</h4>
 
 ![gatinhooo](https://user-images.githubusercontent.com/110943818/186724293-c58f6f08-5d89-4465-9150-b0a1c187f12a.gif)
 
