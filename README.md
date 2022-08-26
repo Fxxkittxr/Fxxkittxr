@@ -9,6 +9,12 @@
 
 
 
+<p>
+Você pode me encontrar<br>
+Nessas redes sociais também:<br>
+<a href="https://www.instagram.com/davip27/"><img align="center" alt="Instagram" height="30" width="30" src="https://user-images.githubusercontent.com/105741181/186734770-a7dc1306-bb56-4012-96ee-4c8838a40b39.png">@fxxkittxr</a>
+<a href="https://www.linkedin.com/in/phrdavis/"><img align="center" alt="Linkedin" height="30" width="30" src="https://user-images.githubusercontent.com/105741181/186735021-2a2cc3e4-8f94-44c2-9d72-a4206fd4538c.png">@palomatxr</a>
+</p>
 
 
 <!---
