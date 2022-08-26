@@ -20,4 +20,3 @@ Nessas redes sociais também:<br>
 Fxxkittxr/Fxxkittxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![kirky](https://user-images.githubusercontent.com/110943818/186932562-f81b3e27-51ff-45d4-bb5f-9f85ff0b5dca.gif)
