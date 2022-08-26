@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @Fxxkittxr
-- 🌱 I’m currently learning Software Engineer
-- 📫 How to reach me fxxkittxr@gmail.com
+- 👋 Olá, olá  me chamo Paloma ou @Fxxkittxr
+- 🌱 Sou estudante do 1° semestre de Engenharia de Software
+- 📫 Caso queira entrar em contato: fxxkittxr@gmail.com
 
+![270f](https://user-images.githubusercontent.com/110943818/186902704-dcfde408-0c98-41c3-a8a6-fea699d8ac18.png)
 
 
 ![gatinhooo](https://user-images.githubusercontent.com/110943818/186724293-c58f6f08-5d89-4465-9150-b0a1c187f12a.gif)
 
 
-com/110943818/184510251-44098778-a3bb-46cd-9ee2-20115dbca296.gif)
+
 
 
 <!---
