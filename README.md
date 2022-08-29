@@ -4,7 +4,7 @@
 👀 Caso queira entrar em contato: fxxkittxr@gmail.com<br>
 </h4>
 <p align="center">
-![gatinhooo](https://user-images.githubusercontent.com/110943818/186724293-c58f6f08-5d89-4465-9150-b0a1c187f12a.gif)
+![186724293-c58f6f08-5d89-4465-9150-b0a1c187f12a](https://user-images.githubusercontent.com/110943818/187253977-6bfda27f-1de8-4364-8e02-587e95783512.gif)
 
 </p>
 
