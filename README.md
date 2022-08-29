@@ -1,4 +1,4 @@
-<h4 align = "center">
+<h4 >
 ☼ Olá, olá  me chamo Paloma ou @Fxxkittxr<br>
 👾 Sou estudante do 1° semestre de Engenharia de Software<br>
 👀 Caso queira entrar em contato: fxxkittxr@gmail.com<br>
