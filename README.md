@@ -1,6 +1,6 @@
 <h4 >
 ☼ Olá, olá  me chamo Paloma ou @Fxxkittxr<br>
-👾 Sou estudante do 6° semestre de Engenharia de Software<br>
+👾 Sou estudante do 8° semestre de Engenharia de Software<br>
 👀 Caso queira entrar em contato: palomakjh@gmail.com<br>
 </h4>
 
